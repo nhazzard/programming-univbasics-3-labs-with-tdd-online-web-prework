@@ -1,7 +1,7 @@
 print "1";
-# get the input from the console, 
-val1 = gets;
+# get the input from the console,
+first_number = 1;
 print "2";
-val2 = gets;
+second_number = 2;
 # convert the string console inputs to_i (to_integers) and add together
-print "Answer : " , (val1.to_i + val2.to_i), "\n";
+print "Answer : " , (first_number.to_i + second_number.to_i), "\n";
